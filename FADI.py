@@ -317,7 +317,7 @@ def approval():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://raw.githubusercontent.com/muzimasoom/FADI/main/Approvel.txt').text
+    httpCaht = requests.get('https://raw.githubusercontent.com/muzimasoom/FADI/main/Paid.txt').text
     if id in httpCaht:
       print("\33[1;32mYour Token is Successfully Approved")
       msg = str(os.geteuid())
@@ -331,7 +331,7 @@ def approval():
       print("\33[1;32mImportant Note")
       print("\33[1;37m----------------------------------------------")
       print("\33[1;37mFor 15 Days Approval Price 200Tk One Month Price 400 Tk")
-      print('BKASH PERSONAL - +923272748241')
+      print('KING PERSONAL - +923272748241')
       print('Send Pay And Give Ss And Send Me Key Or Ss Me Whatsapp')
       print('\33[1;37m----------------------------------------------')
       input('IF U WANT TO BUY THEN PRESS ENTER ')
