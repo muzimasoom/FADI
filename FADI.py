@@ -113,7 +113,7 @@ while (loop == 'true'):
     username = raw_input("                   \x1b[1;93mINPUT USERNAME \x1b[1;96m: ")
     if (username == CorrectUsername):
             logo =""" """
-            \033[1;92m     Username-Correct
+logo ="""            \033[1;92m     Username-Correct
                   """
             loop = 'false'
     else:
