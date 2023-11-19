@@ -317,7 +317,7 @@ def approval():
   uuid = str(os.geteuid()) + str(os.getlogin())
   id = "-".join(uuid)
   try:
-    httpCaht = requests.get('https://raw.githubusercontent.com/muzimasoom/FADI/main/Approve.txt').text
+    httpCaht = requests.get('https://raw.githubusercontent.com/muzimasoom/FADI/main/Approvel.txt').text
     if id in httpCaht:
       print("\33[1;32mYour Token is Successfully Approved")
       msg = str(os.geteuid())
