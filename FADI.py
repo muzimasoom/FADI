@@ -159,13 +159,13 @@ def uaku():
 syed =['Dalvik/2.1.0 (Linux; U; Android 8.1.0; 704KC Build/1.090BE.0075.a)',
 'Dalvik/2.1.0 (Linux; U; Android 14; Pixel 7a Build/UP1A.231105.003.A1)',
 'Dalvik/2.1.0 (Linux; U; Android 12; moto g stylus 5G (2022) Build/S1SDS32.56-53-23)',
-'Mozilla/5.0 (Linux; Android 11; SM-A515F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36 GNews Android/2022146282',
-'Mozilla/5.0 (Linux; Android 9; ASUS_X00QD Build/PPR1.180610.009; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.127 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75',
-'Mozilla/5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.127 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75',
-'Mozilla/5.0 (Linux; Android 8.1.0; DUB-LX1 Build/HUAWEIDUB-LX1; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/111.0.5563.116 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/422.0.0.26.76',
-'Mozilla/5.0 (Linux; arm; Android 11; SM-T510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.54/apad YaSearchBrowser/23.54/apad BroPP/1.0 SA/3 Mobile Safari/537.36',
-'Mozilla/5.0 (Linux; Android 12; SM-G973F Build/SP1A.210812.016; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.226 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75',
-'Mozilla/5.0 (Linux; arm; Android 11; SM-T510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.54/apad YaSearchBrowser/23.54/apad BroPP/1.0 SA/3 Mobile Safari/537.36',]
+'Dalvik/2.1.0 (Linux; U; Android 10; PIXPRO L1 PRO Build/QP1A.190711.020)',
+'Dalvik/2.1.0 (Linux; U; Android 11; MATRIX_PRO Build/RP1A.201005.001)',
+'Dalvik/2.1.0 (Linux; U; Android 12; Amigo7xYUF Build/SC)',
+'Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6525 Build/TP1A.220624.014)',
+'Dalvik/2.1.0 (Linux; U; Android 12; moto g power (2022) Build/S3RQ32.20-42-10-11-2)',
+'Dalvik/2.1.0 (Linux; U; Android 12; TAE08N10 Build/SQ1D.211205.016.A5)',
+'Dalvik/2.1.0 (Linux; U; Android 12; moto g play - 2023 Build/S3SGS32.39-129-1)',]
 
 
 logo=("""\033[1;32m
