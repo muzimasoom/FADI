@@ -156,9 +156,9 @@ def uaku():
 		ua=open('.bbnew.txt','r').read().splitlines()
 
 
-syed =['Mozilla/5.0 (Linux; arm; Android 11; SM-T510) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 YaApp_Android/23.54/apad YaSearchBrowser/23.54/apad BroPP/1.0 SA/3 Mobile Safari/537.36',
-'Mozilla/5.0 (Linux; Android 11; SM-A202F Build/RP1A.200720.012; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.130 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/423.0.0.21.64',
-'Mozilla/5.0 (Linux; Android 8.0.0; SM-G955U Build/R16NW) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/87.0.4280.141 Mobile Safari/537.36 Edg/115.0.0.0',
+syed =['Dalvik/2.1.0 (Linux; U; Android 8.1.0; 704KC Build/1.090BE.0075.a)',
+'Dalvik/2.1.0 (Linux; U; Android 14; Pixel 7a Build/UP1A.231105.003.A1)',
+'Dalvik/2.1.0 (Linux; U; Android 12; moto g stylus 5G (2022) Build/S1SDS32.56-53-23)',
 'Mozilla/5.0 (Linux; Android 11; SM-A515F Build/RP1A.200720.012) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/114.0.5735.196 Mobile Safari/537.36 GNews Android/2022146282',
 'Mozilla/5.0 (Linux; Android 9; ASUS_X00QD Build/PPR1.180610.009; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.127 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75',
 'Mozilla/5.0 (Linux; Android 9; SM-G960F Build/PPR1.180610.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/115.0.5790.127 Mobile Safari/537.36 [FB_IAB/FB4A;FBAV/424.0.0.21.75',
