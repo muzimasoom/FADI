@@ -165,6 +165,11 @@ syed =['Dalvik/2.1.0 (Linux; U; Android 8.1.0; 704KC Build/1.090BE.0075.a)',
 'Dalvik/2.1.0 (Linux; U; Android 13; Infinix X6525 Build/TP1A.220624.014)',
 'Dalvik/2.1.0 (Linux; U; Android 12; moto g power (2022) Build/S3RQ32.20-42-10-11-2)',
 'Dalvik/2.1.0 (Linux; U; Android 12; TAE08N10 Build/SQ1D.211205.016.A5)',
+'Mozilla/5.0 (X11; Linux i686; rv:115.0) Gecko/20100101 Firefox/115.0',
+'Mozilla/5.0 (Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.0',
+'Mozilla/5.0 (X11; Ubuntu; Linux i686; rv:115.0) Gecko/20100101 Firefox/115.0',
+'Mozilla/5.0 (X11; Ubuntu; Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.0',
+'Mozilla/5.0 (X11; Fedora; Linux x86_64; rv:115.0) Gecko/20100101 Firefox/115.0',
 'Dalvik/2.1.0 (Linux; U; Android 12; moto g play - 2023 Build/S3SGS32.39-129-1)',]
 
 
@@ -179,7 +184,7 @@ __   __  __   __  _______  _______  __   __  __   __  ___   ___
 \033[1;93m--------------------------------------------------
 \033[1;37m[-] OWNER     :\033[1;32m MUZZI TRICKER
 \033[1;37m[-] FACEBOOK    :\033[1;32m MUZAMMIL HUSSAIN
-\033[1;37m[-] VERSION   :\033[1;32m 1.3
+\033[1;37m[-] VERSION   :\033[1;32m 1.0
 \033[1;37m[-] STATUS    :\033[1;32m Paid
 --------------------------------------------------""")
 def linex():
